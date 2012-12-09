@@ -18,16 +18,14 @@ Acest instrument permite interacțiunea și experimentarea cu pachetul Omeka.
   # Open the browser of your choice.
   # In the address bar go to http://127.0.0.1/omeka (for testing the current version) or http://127.0.0.1/omeka2 (to test the beta version of the new version)
 ----
-For the administrator in the case of omeka go to 
-http://127.0.0.1/omeka/admin
-Username: unafaccia
-Password: kos2012
+For the administrator in the case of omeka go to http://127.0.0.1/omeka/admin
+  * Username: unafaccia
+  * Password: kos2012
 ----
-For the administrator in the case of omeka2 go to
-http://127.0.0.1/omeka2/admin
-Username: admin
-Password: kos2012
-
+For the administrator in the case of omeka2 go to http://127.0.0.1/omeka2/admin
+  * Username: admin
+  * Password: kos2012
+----
 For the Omeka Version 1.5.3 (http://127.0.0.1/omeka) all the existing plugins are in the right place. Only a few of them are installed.
 
 Good luck!
