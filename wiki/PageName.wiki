@@ -1,6 +1,5 @@
-#summary One-sentence summary of this page.
+#summary The basic instructions to be able to use the Portable Solution
 #labels Phase-Deploy
-
 = Introduction =
 
 This is tool that allows interaction and experimentation with Omeka package.
