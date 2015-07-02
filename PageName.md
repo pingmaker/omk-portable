@@ -1,0 +1,34 @@
+# Introduction #
+
+This is tool that allows interaction and experimentation with Omeka package.
+
+Acest instrument permite interacțiunea și experimentarea cu pachetul Omeka.
+
+# Operations #
+
+  1. Download xammp.zip on HDD or memory stick.
+  1. Unzip it.
+  1. Execute setup\_xammp.bat from root of xammp newly created directory (every time you chose to move the xammp directory, run this again to set the new paths for all the software components).
+  1. Follow instructions in the DOS screen.
+  1. Run xammp-control.exe (if you run it in Vista or Windows 7 it is useful to right click it and choose to run it as administrator).
+  1. If Windows asks to clear net access grant it for Apache and MySQL. XAMMP Control Panel will open.
+  1. Open the browser of your choice.
+  1. In the address bar go to http://127.0.0.1/omeka (for testing the current version) or http://127.0.0.1/omeka2 (to test the beta version of the new version)
+
+---
+
+For the administrator in the case of omeka go to http://127.0.0.1/omeka/admin
+  * Username: unafaccia
+  * Password: kos2012
+
+---
+
+For the administrator in the case of omeka2 go to http://127.0.0.1/omeka2/admin
+  * Username: admin
+  * Password: kos2012
+
+---
+
+For the Omeka Version 1.5.3 (http://127.0.0.1/omeka) all the existing plugins are in the right place. Only a few of them are installed.
+
+Good luck!

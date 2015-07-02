@@ -1,0 +1,1 @@
+The project follows a better integration of portable XAMMP and Omeka to realize a powerful tool for aggregating cultural heritage resources.
